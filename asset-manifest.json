@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bba21a4a.css",
-    "main.js": "/portfolio/static/js/main.5b5b7d7d.js",
+    "main.js": "/portfolio/static/js/main.87d26f23.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/licious.png": "/portfolio/static/media/licious.8ddef5560bc15abf1089.png",
     "static/media/TATA_1mg.png": "/portfolio/static/media/TATA_1mg.5caeb93448d6348e145f.png",
     "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.adcaa704629412252445.png",
-    "static/media/Suraj-Yadav-Resume.pdf": "/portfolio/static/media/Suraj-Yadav-Resume.98ec8e164f924cac197e.pdf",
+    "static/media/Nikhil_Jain.pdf": "/portfolio/static/media/Nikhil_Jain.257a095659278a2c965d.pdf",
     "static/media/MailChimp.png": "/portfolio/static/media/MailChimp.2c5f77120b205b1f959b.png",
     "static/media/Nikhil.jpeg": "/portfolio/static/media/Nikhil.86c1b23773e407c1a768.jpeg",
     "index.html": "/portfolio/index.html",
     "main.bba21a4a.css.map": "/portfolio/static/css/main.bba21a4a.css.map",
-    "main.5b5b7d7d.js.map": "/portfolio/static/js/main.5b5b7d7d.js.map",
+    "main.87d26f23.js.map": "/portfolio/static/js/main.87d26f23.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bba21a4a.css",
-    "static/js/main.5b5b7d7d.js"
+    "static/js/main.87d26f23.js"
   ]
 }
